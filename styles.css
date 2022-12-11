@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    line-height: inherit;
+    background: rgb(111, 44, 158);
+    background: -moz-linear-gradient(90deg, rgba(111, 44, 158, 1) 0%, rgba(228, 37, 171, 1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(111, 44, 158, 1) 0%, rgba(228, 37, 171, 1) 100%);
+    background: linear-gradient(90deg, rgba(111, 44, 158, 1) 0%, rgba(228, 37, 171, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6f2c9e", endColorstr="#e425ab", GradientType=1);
+}
